@@ -30,3 +30,4 @@ import { AddTaskComponent } from './components/add-task/add-task.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+ 

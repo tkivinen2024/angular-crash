@@ -29,3 +29,4 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span')?.textContent).toContain('angular-crash app is running!');
   });
 });
+ 
