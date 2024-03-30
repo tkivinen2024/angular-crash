@@ -31,9 +31,9 @@
       "reminder": true
     },
     {
-      "text": "test task",
-      "day": "May 7th",
-      "reminder": true,
+      "text": "aaa",
+      "day": "aaaa",
+      "reminder": false,
       "id": 6
     }
   ]
