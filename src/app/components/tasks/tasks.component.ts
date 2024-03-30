@@ -28,5 +28,9 @@ export class TasksComponent implements OnInit {
           !== task.id))
       );
   }
+  toggleReminder(task: Task) {
+    task.reminder = !task.reminder;
+    console.log(task.reminder);
+  }
 
 }
